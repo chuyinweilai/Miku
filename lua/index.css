@@ -1,0 +1,35 @@
+html,
+body,
+li,
+ul,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    height: 40px;
+    list-style-type: none;
+}
+
+.box {
+    height: 378px;
+    width: 288px;
+    border: 1px solid #ebebeb;
+}
+
+.lists li {
+    border-bottom: 1px solid #ebebeb;
+}
+
+.ali {
+    background: #6fc;
+}
+
+.ali .img {
+    display: none;
+}
+
+.ali .b_name {
+    display: block;
+}
